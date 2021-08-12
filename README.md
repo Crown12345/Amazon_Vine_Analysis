@@ -5,10 +5,8 @@
 ## Results
 
 ## How many Vine reviews and non-Vine reviews were there?
-- In the electronics dataset there are <b>1080</b> vine reviews and <b>49673</b> non-vine reviews.
-<img width="1406" alt="nonvne" src="https://user-images.githubusercontent.com/61424555/129252064-0dd92594-ebaf-4fe3-b9ee-ada5ac798647.png">
-- In the electronics dataset there are <b>49673</b> non-vine reviews.
-<img width="1406" alt="nonvne" src="https://user-images.githubusercontent.com/61424555/129252113-df02805d-1ce8-4889-a5fe-2cae62cae284.png">
+- In the electronics dataset there are <b>1080</b> vine reviews and <b>49673</b> non-vine reviews. <img width="1406" alt="nonvne" src="https://user-images.githubusercontent.com/61424555/129252064-0dd92594-ebaf-4fe3-b9ee-ada5ac798647.png">
+- In the electronics dataset there are <b>49673</b> non-vine reviews. <img width="1406" alt="nonvne" src="https://user-images.githubusercontent.com/61424555/129252113-df02805d-1ce8-4889-a5fe-2cae62cae284.png">
 
 
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
